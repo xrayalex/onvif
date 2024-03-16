@@ -18,7 +18,7 @@ HEADER = '''\
 
 '''
 
-BASE_MODULE_NAME = 'github.com/IOTechSystems/onvif'
+BASE_MODULE_NAME = 'github.com/xrayalex/onvif'
 
 SERVICE_NAMES = [
     'analytics',

@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/IOTechSystems/onvif/event/topic"
-	"github.com/IOTechSystems/onvif/xsd"
 	mv "github.com/clbanning/mxj/v2"
+	"github.com/xrayalex/onvif/event/topic"
+	"github.com/xrayalex/onvif/xsd"
 )
 
 // Address Alias

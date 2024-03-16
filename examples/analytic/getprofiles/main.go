@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/IOTechSystems/onvif"
-	"github.com/IOTechSystems/onvif/media2"
+	"github.com/xrayalex/onvif"
+	"github.com/xrayalex/onvif/media2"
 	"io/ioutil"
 	"log"
 )

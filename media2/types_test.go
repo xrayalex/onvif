@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/IOTechSystems/onvif/xsd"
-	"github.com/IOTechSystems/onvif/xsd/onvif"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/xrayalex/onvif/xsd"
+	"github.com/xrayalex/onvif/xsd/onvif"
 )
 
 func TestUnmarshalGetProfilesResponse(t *testing.T) {
